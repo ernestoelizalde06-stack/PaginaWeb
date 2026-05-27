@@ -1,0 +1,46 @@
+@font-face {
+    font-family:'kunaroh' ;
+    src: url('../FONTS/Kunaroh.ttf');
+}
+
+.fuente{
+    font-family: kunaroh;
+}
+
+@font-face {
+    font-family:'cafej' ;
+    src: url('../FONTS/Louis\ George\ Cafe\ Bold\ Italic.ttf');
+}
+
+.fuente2{
+    font-family: cafej;
+}
+
+  .titulo-subrayado {
+    text-decoration: underline;
+  }
+
+  @font-face {
+    font-family:'creato' ;
+    src: url('../FONTS/CreatoDisplay-Bold.otf');
+}
+
+.fuente3{
+    font-family: creato;
+}
+
+  .titulo-subrayado {
+    text-decoration: underline;
+  }
+  @font-face {
+    font-family:'creato2' ;
+    src: url('../FONTS/BebasNeue-Regular.ttf');
+}
+
+.fuente4{
+    font-family: creato2;
+}
+
+  .titulo-subrayado {
+    text-decoration: underline;
+  }
